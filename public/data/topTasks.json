@@ -1,0 +1,32 @@
+[
+    {
+        "id": "task-1",
+        "taskName": "Sale a new course",
+        "taskPercentage": "80",
+        "taskColor": "bg-pink"
+    },
+    {
+        "id": "task-2",
+        "taskName": "Contact new customer",
+        "taskPercentage": "50",
+        "taskColor": "bg-yellow"
+    },
+    {
+        "id": "task-3",
+        "taskName": "Create new dashboard",
+        "taskPercentage": "54",
+        "taskColor": "bg-teal"
+    },
+    {
+        "id": "task-4",
+        "taskName": "Solve transition issue",
+        "taskPercentage": "65",
+        "taskColor": "bg-orange"
+    },
+    {
+        "id": "task-5",
+        "taskName": "Answer GitHub questions",
+        "taskPercentage": "92",
+        "taskColor": "bg-purple"
+    }
+]

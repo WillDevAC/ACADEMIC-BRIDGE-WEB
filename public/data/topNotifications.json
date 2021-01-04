@@ -1,0 +1,51 @@
+[
+  {
+      "id": "notification-1",
+      "backgroundIcon": "bg-light-green",
+      "iconName": "person_add",
+      "notificationText": "12 new members joined",
+      "notificationAge": "14 mins"
+  },
+  {
+      "id": "notification-2",
+      "backgroundIcon": "bg-cyan",
+      "iconName": "add_shopping_cart",
+      "notificationText": "4 sales made",
+      "notificationAge": "22 mins"
+  },
+  {
+      "id": "notification-3",
+      "backgroundIcon": "bg-red",
+      "iconName": "delete_forever",
+      "notificationText": "Nancy Doe deleted account",
+      "notificationAge": "3 hours"
+  },
+  {
+      "id": "notification-4",
+      "backgroundIcon": "bg-orange",
+      "iconName": "mode_edit",
+      "notificationText": "Nancy changed name",
+      "notificationAge": "2 hours"
+  },
+  {
+      "id": "notification-5",
+      "backgroundIcon": "bg-blue-grey",
+      "iconName": "comment",
+      "notificationText": "John commented your post",
+      "notificationAge": "4 hours"
+  },
+  {
+      "id": "notification-6",
+      "backgroundIcon": "bg-light-green",
+      "iconName": "cached",
+      "notificationText": "John updated status",
+      "notificationAge": "3 hours"
+  },
+  {
+      "id": "notification-7",
+      "backgroundIcon": "bg-purple",
+      "iconName": "settings",
+      "notificationText": "Settings updated",
+      "notificationAge": "24 hours"
+  }
+]

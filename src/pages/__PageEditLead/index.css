@@ -1,0 +1,42 @@
+#name {
+  font-weight: bold;
+  font-size: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+
+#icone {
+  font-size: 17px;
+  outline: none;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #f4f4f4;
+}
+::-webkit-scrollbar-thumb {
+  background:#f5456e;
+}
+
+.floatbuttonsssns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #fa403c;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #fa403c;
+  cursor: pointer;
+}
+.floatbuttonsssns:hover {
+  background-color: #f93b3b;
+}

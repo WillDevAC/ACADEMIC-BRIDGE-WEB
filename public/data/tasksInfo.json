@@ -1,0 +1,47 @@
+[
+    {
+        "id": "task-1",
+        "taskName": "Task A",
+        "taskStatus": "Doing",
+        "taskStatusBgColor": "bg-green",
+        "taskManager": "John Doe",
+        "taskPercentage": "62",
+        "taskPercentageColor": "bg-green"
+    },
+    {
+        "id": "task-2",
+        "taskName": "Task B",
+        "taskStatus": "To Do",
+        "taskStatusBgColor": "bg-blue",
+        "taskManager": "John Doe",
+        "taskPercentage": "40",
+        "taskPercentageColor": "bg-blue"
+    },
+    {
+        "id": "task-3",
+        "taskName": "Task C",
+        "taskStatus": "On Hold",
+        "taskStatusBgColor": "bg-light-blue",
+        "taskManager": "John Doe",
+        "taskPercentage": "72",
+        "taskPercentageColor": "bg-light-blue"
+    },
+    {
+        "id": "task-4",
+        "taskName": "Task D",
+        "taskStatus": "Doing",
+        "taskStatusBgColor": "bg-green",
+        "taskManager": "John Doe",
+        "taskPercentage": "62",
+        "taskPercentageColor": "bg-green"
+    },
+    {
+        "id": "task-5",
+        "taskName": "Task E",
+        "taskStatus": "Wait Approvel",
+        "taskStatusBgColor": "bg-orange",
+        "taskManager": "John Doe",
+        "taskPercentage": "95",
+        "taskPercentageColor": "bg-orange"
+    }
+]

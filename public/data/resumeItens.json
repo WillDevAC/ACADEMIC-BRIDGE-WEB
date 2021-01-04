@@ -1,0 +1,26 @@
+[
+    {
+        "id": "resume-1",
+        "resumeTitle": "REPORTS" ,       
+        "resumeBgColor": "bg-pink",
+        "resumeIconName": "dashboard"
+    },
+    {
+        "id": "resume-2",
+        "resumeTitle": "INTERESTED",
+        "resumeBgColor": "bg-cyan",
+        "resumeIconName": "card_travel"
+    },
+    {
+        "id": "resume-3",
+        "resumeTitle": "ADMINISTRATORS",
+        "resumeBgColor": "bg-light-green",
+        "resumeIconName": "people_alt"
+    },
+    {
+        "id": "resume-4",
+        "resumeTitle": "SALES",
+        "resumeBgColor": "bg-orange",
+        "resumeIconName": "monetization_on"
+    }
+]
